@@ -1,0 +1,34 @@
+﻿body { margin:auto; background:#ffffff;}
+:focus { outline: 0;}
+
+/*--------------------------------- HEADER -------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#telop {
+width:1002px;
+height:30px;
+padding:0 0 0 0;
+margin:auto;}
+
+#telop-kocka {
+width:877px;
+height:20px;
+margin:0 0 0 0;
+padding:0 0 0 0;
+float:right;}
+
+#telopot {
+float:right;}
+
